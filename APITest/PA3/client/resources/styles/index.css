@@ -1,0 +1,39 @@
+.pagebackground {
+    color: white;
+    background-image: url("https://wallpapercave.com/wp/wp2902991.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.tablecolors th, 
+.tablecolors td,    
+.tablecolors body {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #FFE81F;
+    padding: 3px; 
+    text-align: left;
+    background-color: black;
+    
+}
+
+.tablecolors th {
+    color: white;
+}
+
+
+
+h1{
+text-align: center;
+background-image: url("https://see.fontimg.com/api/rf5/DGRW/MTNmYjZiN2U1NjRlNDM1MGE1OTgzOWRiZGFmMzgxNTIudHRm/U1RBUldBUlMgaW5mbw/star-jedi.png?r=fs&h=76&w=1250&fg=E4E12D&bg=FFFFFF&tb=1&s=61");
+height: 75px;
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
